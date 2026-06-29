@@ -1,0 +1,26 @@
+Machine Learning Model Implementation Report
+
+Project:
+Internship Task 3 - Week 1
+
+Dataset:
+Titanic Dataset
+
+Objective:
+To build a machine learning classification model that predicts passenger survival.
+
+Steps Performed:
+1. Loaded the Titanic dataset.
+2. Performed basic preprocessing.
+3. Split the data into training and testing sets.
+4. Trained a Logistic Regression model.
+5. Evaluated the model using Accuracy, Precision, Recall, and F1-score.
+
+Libraries Used:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+
+Conclusion:
+The model was successfully trained and evaluated. The workflow demonstrates the basic machine learning pipeline for a classification problem.
