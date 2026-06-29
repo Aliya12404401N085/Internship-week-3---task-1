@@ -1,1 +1,8 @@
 
+Dataset Name: Titanic Dataset
+
+Source:
+https://www.kaggle.com/competitions/titanic/data
+
+Description:
+The Titanic dataset is used for binary classification to predict whether a passenger survived or not.
